@@ -2,8 +2,8 @@
 
 REST is a type of API that follows a set of rules that make communication between two applications smooth and organized.
 
-![image]([https://github.com/user-attachments/assets/9df77295-4ced-4f44-8bda-4d3c6c7391ad](https://github.com/Codewith-NandaYadav09/IP_Tracker-REST/blob/main/IP_TRACKER.png))
 
+![IP_TRACKER](https://github.com/user-attachments/assets/bedd6e0b-a999-4fe5-a516-a7dbc931e1d1)
 
 
 Currently, our IP tracker application lacks error handling. For instance, if a user enters a random word in the search input field that is not a valid IP address, the entire application will break.
