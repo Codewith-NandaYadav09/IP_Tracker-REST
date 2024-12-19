@@ -2,7 +2,7 @@
 
 REST is a type of API that follows a set of rules that make communication between two applications smooth and organized.
 
-![image](https://github.com/user-attachments/assets/9df77295-4ced-4f44-8bda-4d3c6c7391ad)
+![image]([https://github.com/user-attachments/assets/9df77295-4ced-4f44-8bda-4d3c6c7391ad](https://github.com/Codewith-NandaYadav09/IP_Tracker-REST/blob/main/IP_TRACKER.png))
 
 
 
